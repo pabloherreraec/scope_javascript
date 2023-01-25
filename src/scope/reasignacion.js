@@ -30,3 +30,6 @@ console.log(vehicles);
 
 vehicles.pop();
 console.log(vehicles);
+
+
+nameOfDog("Elmo"); function nameOfDog(name) { console.log(name); }; 
